@@ -24,5 +24,4 @@ Laravel Framework 9.52.16
 ## PHP
 PHP 8.0.30
 
-# fast-food
 "# administracion-asistencia" 
